@@ -158,6 +158,7 @@ public class Main {
             System.out.println("Маша получает теперь в месяц" + mashanewzp + "годовой доход вырос на " + masharaznica);
             System.out.println("Денис теперь получает в месяц" + denisnewzp + "годовой доход вырос на " + denisraznica);
             System.out.println("Кристина теперь получает в есяц " + kristinanewzp + "годовой доход вырос на " + kristinaraznica);
+       System.out.println("готово!");
         }
     }
 }
